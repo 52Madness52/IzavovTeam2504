@@ -1,0 +1,4 @@
+Dataset	Elements	Team	Algorithm	Time_us	Collisions	Status
+"Повторяющиеся строки (10000 элементов)"	10000	Example	fnv1a_example	192	0	OK
+"Длинные строки (1000 элементов)"	1000	Example	fnv1a_example	78	0	OK
+"Короткие строки (100 элементов)"	100	Example	fnv1a_example	2	0	OK
