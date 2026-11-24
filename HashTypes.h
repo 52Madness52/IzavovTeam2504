@@ -27,3 +27,5 @@ inline Digest Digest32(std::uint32_t value)
         static_cast<std::uint8_t>(value)
     };
 }
+
+
